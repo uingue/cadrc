@@ -38,7 +38,7 @@
 
    main.cpp: 主函数
 
-5. ##### 使用说明
+5. ##### 命令行输入说明
 
    （1）命令行输入“euler_1g”，基于欧拉操作生成含有一个亏格的立方体
 
@@ -54,7 +54,11 @@
 
    命令行输入“euler_cb num”，基于欧拉操作生成具有num个圆分辨率的拟合圆柱体形成的实体
 
-6. ##### 结果展示
+6. ##### 显示说明
+
+   right, left, down, up, pagedown, pageup 分别控制物体绕x, y, z轴旋转
+
+7. ##### 结果展示
 
    （1）欧拉操作生成含有一个亏格的立方体
 
@@ -69,7 +73,7 @@
    ![cube_2genus.png](https://i.loli.net/2020/11/19/2FtBL5hl9bTwMDV.png)
 
    （4）基于欧拉操作生成具有拟合圆柱体和形成的实体
-   
+
    ![24cylinder.png](https://i.loli.net/2020/11/19/4lNJFDgvRbaGrkH.png)
-   
+
    ![10cylinder.png](https://i.loli.net/2020/11/19/kORdXjberNlKcEg.png)
