@@ -58,18 +58,18 @@
 
    （1）欧拉操作生成含有一个亏格的立方体
 
-   ![image-20201119144127966](C:\Users\logar\AppData\Roaming\Typora\typora-user-images\image-20201119144127966.png)
+   ![image-20201119144127966](D:\code\cadrc\images\image-20201119144127966.png)
 
    （2）扫成操作生成的含有一个亏格的实体
 
-   ![image-20201119144401349](C:\Users\logar\AppData\Roaming\Typora\typora-user-images\image-20201119144401349.png)
+   ![image-20201119144401349](D:\code\cadrc\images\image-20201119144401349.png)
 
    （3）扫成操作生成含有两个亏格的实体
 
-   ![image-20201119144457629](C:\Users\logar\AppData\Roaming\Typora\typora-user-images\image-20201119144457629.png)
+   ![image-20201119144457629](D:\code\cadrc\images\image-20201119144457629.png)
 
    （4）基于欧拉操作生成具有拟合圆柱体和形成的实体
 
-![image-20201119144646682](C:\Users\logar\AppData\Roaming\Typora\typora-user-images\image-20201119144646682.png)
+![image-20201119144646682](D:\code\cadrc\images\image-20201119144646682.png)
 
-![image-20201119144742392](C:\Users\logar\AppData\Roaming\Typora\typora-user-images\image-20201119144742392.png)
+![image-20201119144742392](D:\code\cadrc\images\image-20201119144742392.png)
