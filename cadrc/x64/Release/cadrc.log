@@ -1,0 +1,22 @@
+﻿  Edge.cpp
+  Euler.cpp
+  Face.cpp
+  HalfEdge.cpp
+  Loop.cpp
+  main.cpp
+D:\code\cadrc\cadrc\main.cpp(168,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  MakeSolid.cpp
+D:\code\cadrc\cadrc\MakeSolid.cpp(132,25): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\code\cadrc\cadrc\MakeSolid.cpp(134,18): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\code\cadrc\cadrc\MakeSolid.cpp(137,19): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\code\cadrc\cadrc\MakeSolid.cpp(138,12): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\code\cadrc\cadrc\MakeSolid.cpp(138,31): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\code\cadrc\cadrc\MakeSolid.cpp(140,11): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\code\cadrc\cadrc\MakeSolid.cpp(140,30): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+  Solid.cpp
+  Vertex.cpp
+  Previous IPDB not found, fall back to full compilation.
+  正在生成代码
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  cadrc.vcxproj -> D:\code\cadrc\x64\Release\cadrc.exe
