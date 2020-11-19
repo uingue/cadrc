@@ -58,18 +58,18 @@
 
    （1）欧拉操作生成含有一个亏格的立方体
 
-   ![image-20201119144127966](.\images\image-20201119144127966.png)
+   ![cube_1genus.png](https://i.loli.net/2020/11/19/bQMTf3oOFd7vZ8W.png)
 
    （2）扫成操作生成的含有一个亏格的实体
 
-   ![image-20201119144401349](.\images\image-20201119144401349.png)
+   ![cube_1genus_sweep.png](https://i.loli.net/2020/11/19/qe9niJl1uRQo5mp.png)
 
    （3）扫成操作生成含有两个亏格的实体
 
-   ![image-20201119144457629](.\images\image-20201119144457629.png)
+   ![cube_2genus.png](https://i.loli.net/2020/11/19/2FtBL5hl9bTwMDV.png)
 
    （4）基于欧拉操作生成具有拟合圆柱体和形成的实体
 
-![image-20201119144646682](.\images\image-20201119144646682.png)
+![24cylinder.png](https://i.loli.net/2020/11/19/4lNJFDgvRbaGrkH.png)
 
-![image-20201119144742392](.\images\image-20201119144742392.png)
+![10cylinder.png](https://i.loli.net/2020/11/19/kORdXjberNlKcEg.png)
