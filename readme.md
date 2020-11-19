@@ -69,7 +69,7 @@
    ![cube_2genus.png](https://i.loli.net/2020/11/19/2FtBL5hl9bTwMDV.png)
 
    （4）基于欧拉操作生成具有拟合圆柱体和形成的实体
-
-![24cylinder.png](https://i.loli.net/2020/11/19/4lNJFDgvRbaGrkH.png)
-
-![10cylinder.png](https://i.loli.net/2020/11/19/kORdXjberNlKcEg.png)
+   
+   ![24cylinder.png](https://i.loli.net/2020/11/19/4lNJFDgvRbaGrkH.png)
+   
+   ![10cylinder.png](https://i.loli.net/2020/11/19/kORdXjberNlKcEg.png)
